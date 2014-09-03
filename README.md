@@ -5,7 +5,7 @@ Twenty Characters
 
 This program creates images of protein primary structures using an amino acid alphabet inspired from Chinese calligraphy. The alternative one-letter-code. represents chemical properties like charges, aromaticity and chain size in the symbols. This may help you to spot chemical similarities easier than with the latin characters commonly used.
 
-![Twenty Characters Example](twenty_characters.png)
+![Twenty Characters Example](twc.png)
 
 Disclaimer
 ---------
@@ -55,4 +55,6 @@ Copyright
 --------
 This work is distributed under the conditions of the GPL.
 (c) 2008 Kristian Rother
+
+![Twenty Characters Example](twenty_characters.png)
 
